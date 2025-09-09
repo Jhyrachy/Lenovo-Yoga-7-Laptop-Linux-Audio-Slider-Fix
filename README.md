@@ -166,14 +166,9 @@ If you need to find your specific audio device name for manual entry:
 
 ### ✅ **Confirmed Working On:**
 - Lenovo 14IRH8
-- Lenovo IdeaPad Gaming 3 series
-- Various Lenovo models with similar audio chipsets
 
 ### 🖥️ **Linux Distributions:**
-- Ubuntu 22.04+ / Pop!_OS
-- Fedora 36+
-- Arch Linux / Manjaro
-- openSUSE Tumbleweed
+- Fedora Silverblue 42
 - Most distributions using PipeWire
 
 ### 🎵 **Audio Systems:**
@@ -272,21 +267,9 @@ chmod +x restore-backup.sh
 - Provide output of `wpctl status` and `wpctl inspect <sink-id>`
 - Include any error messages
 
-## Supported Models
-
-While primarily developed for the Lenovo 14IRH8, this fix has been reported to work on:
-
-- Lenovo IdeaPad Gaming 3 15IMH05
-- Lenovo IdeaPad Gaming 3 15ARH05
-- Lenovo Legion 5 series
-- Lenovo ThinkPad E15 Gen 4
-- Other Lenovo models with similar audio hardware
-
-**Not limited to Lenovo:** This issue affects various laptop brands with certain audio chipsets.
-
 ## Keywords for Search
 
-`lenovo audio linux`, `volume control not working linux`, `lenovo 14irh8 audio`, `pipewire volume fix`, `alsa soft mixer`, `wireplumber configuration`, `linux audio volume jumps`, `lenovo speaker volume`, `ubuntu audio fix`, `fedora audio issue`, `arch linux audio problem`, `volume slider not working`, `audio too loud linux`, `lenovo gaming laptop audio`
+`lenovo audio linux`, `volume control not working linux`, `lenovo 14irh8 audio`, `pipewire volume fix`, `alsa soft mixer`, `wireplumber configuration`, `linux audio volume jumps`, `lenovo speaker volume`, `ubuntu audio fix`, `fedora audio issue`, `arch linux audio problem`, `volume slider not working`, `audio too loud linux`,
 
 ## License
 
